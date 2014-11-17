@@ -5,7 +5,7 @@
 >   _I'm gonna add some more, relevant information from other sources soon and will 
 >   leave this here as a _private_ **markdown reference**._  
 
--- 
+---  
 
 ### Table of Contents
 
@@ -24,7 +24,7 @@
         13. _[Multiple lines](#)_
     14. [Links](#)
 
---
+--- 
 
     Backup of https://help.github.com/articles/markdown-basics/, created 2014/11/18.
 

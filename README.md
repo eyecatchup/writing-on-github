@@ -5,9 +5,6 @@
 >   _I'm gonna add some more, relevant information from other sources soon and will 
 >   leave this here as a _private_ **markdown reference**._  
 
-
->  Backup of https://help.github.com/articles/markdown-basics/, created 2014/11/18.
-
 -- 
 
 ### Table of Contents
@@ -28,6 +25,10 @@
     14. [Links](#)
 
 --
+
+    Backup of https://help.github.com/articles/markdown-basics/, created 2014/11/18.
+
+---  
 
 ## MARKDOWN BASICS
 

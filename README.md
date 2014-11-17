@@ -7,9 +7,31 @@
 
 ---  
 
+ 
+
 ### Table of Contents
 
-1. __[MARKDOWN BASICS](#)__
+0. __[WRITING ON GITHUB](#)__
+    1. [GitHub Flavored Markdown (GFM)](#) 
+        3. [GFM vs. Standard Markdown (SM)](#) 
+            4. [Multiple underscores in words](#)
+            5. [URL autolinking](#)
+            6. [Strikethrough](#)
+            7. [Fenced code blocks](#)
+            8. [Syntax highlighting](#)
+            9. [Tables](#)
+        2. [GFM Markup](#)
+            2. [Newlines](#)
+            3. [Task lists](#)
+            4. [References](#)
+        5. [GFM Features](#)
+            6. [Quick quoting](#) 
+            7. [Name and Team @mentions autocomplete](#)
+            8. [Emoji autocomplete](#)
+            9. [Issue autocompletion](#)
+            10. [Zen Mode (fullscreen) writing](#)
+        11. [HTML](#)
+1. __[(GF) MARKDOWN BASICS](#)__
     2. [Basic writing](#)
         3. _[Paragraphs](#)_
         4. _[Headings](#)_

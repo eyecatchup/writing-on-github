@@ -1,19 +1,36 @@
-# writing-on-github
-  
-    A backup of Github's "Writing on Github" help pages.
+# WRITING ON GITHUB
+===================  
 
---- 
----  
-<br/>  
+>   _This is ~~just~~ a private backup of Github's post series "Writing on Github"._  
+>   _I'm gonna add some more, relevant information from other sources soon and will 
+>   leave this here as a _private_ **markdown reference**._  
 
---- 
-   
-  _<pre>Backup of https://help.github.com/articles/markdown-basics/, created 2014/11/18.</pre>_
 
- 
+>  Backup of https://help.github.com/articles/markdown-basics/, created 2014/11/18.
 
-## Markdown Basics
- 
+-- 
+
+### Table of Contents
+
+1. __[MARKDOWN BASICS](#)__
+    2. [Basic writing](#)
+        3. _[Paragraphs](#)_
+        4. _[Headings](#)_
+        5. _[Blockquotes](#)_
+        6. _[Styling text](#)_
+    7. [Lists](#)
+        8. _[Unordered lists](#)_
+        9. _[Ordered lists](#)_
+        10. _[Nested lists](#)_
+    11. [Code Formatting](#)
+        12. _[Inline formats](#)_
+        13. _[Multiple lines](#)_
+    14. [Links](#)
+
+--
+
+## MARKDOWN BASICS
+
 
 [Markdown][md] allows you to write using an easy-to-read, easy-to-write plain text format, which then converts to valid HTML for viewing on GitHub
 
@@ -114,7 +131,7 @@ You can create nested lists by indenting list items by two spaces.
 
 --- 
 
-#### Inline formats  
+##### Inline formats  
 
 Use single backticks (<code>`</code>) to format text in a special monospace format. Everything within the backticks appear as-is, with no other special formatting.
 
@@ -122,7 +139,7 @@ Use single backticks (<code>`</code>) to format text in a special monospace form
   
 -- 
 
-#### Multiple lines
+##### Multiple lines
 
 You can use triple backticks (<code>```</code>) to format text as its own distinct block.
 

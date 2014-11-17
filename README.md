@@ -5,9 +5,15 @@
 --- 
 ---  
 <br/>  
+
+--- 
    
+  _<pre>Backup of https://help.github.com/articles/markdown-basics/, created 2014/11/18.</pre>_
+
+ 
+
 ## Markdown Basics
----  
+ 
 
 [Markdown][md] allows you to write using an easy-to-read, easy-to-write plain text format, which then converts to valid HTML for viewing on GitHub
 
@@ -104,13 +110,32 @@ You can create nested lists by indenting list items by two spaces.
 
 --  
 
-
-
-
 ### Code formatting  
 
----   
+--- 
+
+#### Inline formats  
+
+Use single backticks (<code>`</code>) to format text in a special monospace format. Everything within the backticks appear as-is, with no other special formatting.
+
+    Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
   
+-- 
+
+#### Multiple lines
+
+You can use triple backticks (<code>```</code>) to format text as its own distinct block.
+
+    Check out this neat program I wrote:
+
+    ```
+    x = 0  
+    x = 2 + 2
+    what is x
+    ```
+
+--
+
 ### Links  
   
 ---  
@@ -119,7 +144,7 @@ You can create an inline link by wrapping link text in brackets ( `[ ]` ), and t
 
 For example, to create a hyperlink to [www.github.com](https://github.com), with a link text that says, Visit GitHub!, you'd write this in Markdown: `[Visit GitHub!](www.github.com)`.
 
----  
+--  
 
 [md]: http://daringfireball.net/projects/markdown/    
 [bq]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote    
@@ -127,3 +152,9 @@ For example, to create a hyperlink to [www.github.com](https://github.com), with
 [i]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em   
 [ol]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol  
 [ul]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul  
+  
+>   <em><strong>END of "Markdown basics".</strong></em>
+
+---
+ 
+ 

@@ -2,8 +2,8 @@
 ===================  
 --- 
 >   _This is ~~just~~ a private backup of Github's post series "Writing on Github"._  
->   _I'm gonna add some more, relevant information from other sources soon and will 
->   leave this here as a _private_ **markdown reference**._  
+>   _I'm gonna add some more, relevant information from other sources soon and will  
+>   leave this here as a private **markdown reference**._  
 
 ---  
 
